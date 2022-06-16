@@ -1,27 +1,32 @@
 ﻿namespace employeeWage
 {
-    internal class Program
+     class Program
     {
+            public const int partTime = 1;
+            public const int fullTime = 2;
+            public const int PerHourRate = 20;
         static void Main(string[] args)
         {
-            int fullTime = 1;
-            int empRatePerHour = 20;
 
-            int empHrs = 0;
+            int empHr = 0;
             int empWage = 0;
             Random random = new Random();
+            int empcheck = random.Next(0,2);
+            switch (empcheck)
+            {
+                case partTime:
+                    empHr = 4;
+                    break;
+                case fullTime:
+                    empHr=8;
+                    break;
+                default:
+                    empHr=0;
+                    break;
+            }
+            empWage = empHr * PerHourRate;
+            Console.WriteLine(empWage);
 
-            int empcheck = random.Next(0, 2);
-            if (empcheck == fullTime)
-            {
-                empHrs = 8;
-            }
-            else
-            {
-                empHrs = 0;
-            }
-            empWage = empHrs * empRatePerHour;
-            Console.WriteLine("Emp wage:" + empWage);
 
 
         }
