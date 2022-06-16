@@ -1,0 +1,15 @@
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\employeeWage\employeeWage\bin\Debug\net6.0\employeeWage.exe
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\employeeWage\employeeWage\bin\Debug\net6.0\employeeWage.deps.json
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\employeeWage\employeeWage\bin\Debug\net6.0\employeeWage.runtimeconfig.json
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\employeeWage\employeeWage\bin\Debug\net6.0\employeeWage.dll
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\employeeWage\employeeWage\bin\Debug\net6.0\employeeWage.pdb
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\employeeWage\employeeWage\obj\Debug\net6.0\employeeWage.csproj.AssemblyReference.cache
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\employeeWage\employeeWage\obj\Debug\net6.0\employeeWage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\employeeWage\employeeWage\obj\Debug\net6.0\employeeWage.AssemblyInfoInputs.cache
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\employeeWage\employeeWage\obj\Debug\net6.0\employeeWage.AssemblyInfo.cs
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\employeeWage\employeeWage\obj\Debug\net6.0\employeeWage.csproj.CoreCompileInputs.cache
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\employeeWage\employeeWage\obj\Debug\net6.0\employeeWage.dll
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\employeeWage\employeeWage\obj\Debug\net6.0\refint\employeeWage.dll
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\employeeWage\employeeWage\obj\Debug\net6.0\employeeWage.pdb
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\employeeWage\employeeWage\obj\Debug\net6.0\employeeWage.genruntimeconfig.cache
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\employeeWage\employeeWage\obj\Debug\net6.0\ref\employeeWage.dll
